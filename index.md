@@ -56,46 +56,9 @@ Exponential decay has several important implications including the fact that con
 
 The plot below shows the concentration profile for a first order reactant with a half life of ~1.5 s. The dashed red lines show visually that the half life is constant.
 
-<img align="middle" src="first_order_plot.png" width="300" hspace="20">
+<img align="middle" src="first_order_plot.png" width="400" hspace="30">
 
 
-
-## 2nd Order Reactions
-
-Consider the reaction <img src="https://render.githubusercontent.com/render/math?math=\displaystyle X %2B\ X \rightarrow Y">
-which is 2nd order with respect to X and has second order rate constant  <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_{2nd}">. We can relate the power law and differential forms:
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle rate = -\frac{d[X]}{dt} = k_{2nd}[X]^2">
-
-Consider the differential equation - again, we can solve this using the method of separation of variables. (See Integration course if you have not encountered this method before)
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{[X]^2}d[X] = -2 k_{2nd}dt">
-
-Integrating both sides indefinitely:
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \int \frac{1}{[X]^2}d[X] = -2 k_{2nd} \int dt">
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle -\frac{1}{[X]} = -2 k_{2nd}t %2B\ c ">
-
-Again, to assign a value to the constant of integration, we consider the boundary conditions. At the start of the reaction <img src="https://render.githubusercontent.com/render/math?math=\displaystyle t=0"> and <img src="https://render.githubusercontent.com/render/math?math=\displaystyle [X] = [X]_0">.
-Substituting these values into the equation directly above, we arrive at:
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle -\frac{1}{[X]} = -2 k_{2nd}t - \frac{1}{[X]_0}">
-
-This can be rearranged to give:
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \ln [X]  = -kt %2B\ \ln [X]_0">
-
-Removing the natural logarithm by raising <img src="https://render.githubusercontent.com/render/math?math=\displaystyle e">
-to the power of each side results in:
-
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle [X] = [X]_0 e^{-kt}">
-
-Thus we arrive at the conclusion that a species which is destroyed in a first order reaction will have its concentration decay exponentially with time. This is precisely the same as the mathematics behind radioactive decay of unstable nuclei since the act of decay is a first order process.
-
-Exponential decay has several important implications including the fact that concentration of reactant is predicted never to quite reach zero and secondly the half life of the species is constant (not the case for other orders of reaction).
-
-The plot below shows the concentration profile for a first order reactant with a half life of ~1.5 s. The dashed red lines show visually that the half life is constant.
 
 
 ## 2nd Order Reactions
