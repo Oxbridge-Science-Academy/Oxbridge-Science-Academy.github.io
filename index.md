@@ -1,4 +1,4 @@
-# Oxbridge Science Academy
+# Specimen Course Section - Chemical Kinetics 
 
 # Differential Equations
 
@@ -55,6 +55,9 @@ Thus we arrive at the conclusion that a species which is destroyed in a first or
 Exponential decay has several important implications including the fact that concentration of reactant is predicted never to quite reach zero and secondly the half life of the species is constant (not the case for other orders of reaction).
 
 The plot below shows the concentration profile for a first order reactant with a half life of ~1.5 s. The dashed red lines show visually that the half life is constant.
+
+<img align="middle" src="first_order_plot.png" width="300" hspace="20">
+
 
 
 ## 2nd Order Reactions
