@@ -56,7 +56,6 @@ Exponential decay has several important implications including the fact that con
 
 The plot below shows the concentration profile for a first order reactant with a half life of ~1.5 s. The dashed red lines show visually that the half life is constant.
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/first%20order%20plot.png)
 
 ## 2nd Order Reactions
 
@@ -95,7 +94,6 @@ Exponential decay has several important implications including the fact that con
 
 The plot below shows the concentration profile for a first order reactant with a half life of ~1.5 s. The dashed red lines show visually that the half life is constant.
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/first%20order%20plot.png)
 
 ## 2nd Order Reactions
 
