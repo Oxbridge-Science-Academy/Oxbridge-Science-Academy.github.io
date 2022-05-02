@@ -2,20 +2,20 @@
 
 [Overview](./0_overview.md)
 
-[1. Rates of Reaction](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/1.Rates_of_Reaction.md)
+[1. Rates of Reaction](./1_rates_of_reaction.md)
 
-[2. Order of Reaction](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/2.Order_of_Reaction.md)
+[2. Order of Reaction](./2_order_of_reaction.md)
 
-[3. Differential Equations](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/3.Differential_Equations.md)
+[3. Differential Equations](./3_differential_eq.md)
 
-[4. Concentration of Products](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/4.Concentration_of_Product.md)
+[4. Concentration of Products](./4_conc_of_prod.md)
 
-[5. Concentration of Products](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/5.Measurement_Techniques.md)
+[5. Measurement Techniques](./5_measurememt.md)
 
-[6. Measurement Techniques](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/6.Rate_Constants.md)
+[6. Rate Constants](./6_rate_constants.md)
 
-[7. Rate Constants](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/7.Energy_Plots.md)
+[7. Energy Plots](./7_energy_plots.md)
 
-[8. Sequential Reactions](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/8.Sequential_Reactions.md)
+[8. Sequential Reactions](./8.sequential_reactions.md)
 
-[9. Steady State Approximation](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/9.Steady_State_Approximation.md)
+[9. Steady State Approximation](./9_steady_state_approximation.md)
