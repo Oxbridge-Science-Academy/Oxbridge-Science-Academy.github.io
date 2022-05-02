@@ -1,6 +1,4 @@
-# Specimen Course Section - Chemical Kinetics 
-
-# Differential Equations
+# 3. Differential Equations
 
  A key progression from high school to university is thinking about rates with a more quantitative mindset. This is done by linking the two different rate equations – the differential equation and the power law equation.
 
