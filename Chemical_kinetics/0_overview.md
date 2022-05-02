@@ -5,6 +5,8 @@ To understand the some of the ways we can measure rates of reaction and determin
  
 To understand the use of energy profiles and extend this (qualitatively) to the concepts of energy landscapes. 
  
+Test 
+ 
 ## Course Plan
 1. Defining Rate of Reaction
 2. Order of Reaction - Single Step Reactions
