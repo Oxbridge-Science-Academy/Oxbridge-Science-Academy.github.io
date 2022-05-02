@@ -1,6 +1,6 @@
 # Chemical Kinetics 
 
-[Overiew](./0.Overview.md)
+[Overiew](./0_overview.md)
 
 [1. Rates of Reaction](https://github.com/Oxbridge-Science-Academy/Chemistry_Courses/blob/master/Chemical_Kinetics/1.Rates_of_Reaction.md)
 
