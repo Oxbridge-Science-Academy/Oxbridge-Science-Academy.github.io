@@ -42,7 +42,7 @@ Thus, the equation of product concentration as a function of time meets these tw
 The expression for <img src="https://render.githubusercontent.com/render/math?math=\displaystyle [Y]"> is plotted below. We can see how the product concentration increases rapidly at first, coinciding with the region of most rapidly reactant loss, before plateauing and tending to the concentration of the initial reactant concentration.
 Incidentally, the same mathematics is observed during the charging of a capacitor and will familiar to those of you who studied A Level (or equivalent) Physics. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Product%201st%20order.png)
+![alt text](./figures/Product_1st_order.png)
 
 Questions x and y focus on calculating the concentration of products. 
 
@@ -50,4 +50,4 @@ Questions x and y focus on calculating the concentration of products.
 
 Below are the shown the product concentration profiles for zero, 1st and 2nd order reactions. Note that the product concentartions mirror the reactant concentartion profile shown earlier. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Product%20Profiles.png)
+![alt text](./figures/Product_Profiles.png)
