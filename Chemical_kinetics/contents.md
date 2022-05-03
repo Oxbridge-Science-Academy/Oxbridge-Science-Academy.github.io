@@ -1,5 +1,7 @@
 # Chemical Kinetics 
 
+[Back to Home](./https://github.com/Oxbridge-Science-Academy/Oxbridge-Science-Academy.github.io/blob/master/index.md)
+
 [Overview](./0_overview.md)
 
 [1. Rates of Reaction](./1_rates_of_reaction.md)
@@ -19,7 +21,6 @@
 [8. Sequential Reactions](./8.sequential_reactions.md)
 
 [9. Steady State Approximation](./9_steady_state_approximation.md)
-
 
 [Questions](./questions.md)
 
