@@ -7,7 +7,7 @@
 - Relationship to Incident Radiation
 - Wavenumbers
 
-**[[2. Infrared Spectroscopy - Part 2](./2_ir_part_2.md)**
+**[2. Infrared Spectroscopy - Part 2](./2_ir_part_2.md)**
 - Dipoles and Infrared Spectroscopy
 - Change in dipole
 
