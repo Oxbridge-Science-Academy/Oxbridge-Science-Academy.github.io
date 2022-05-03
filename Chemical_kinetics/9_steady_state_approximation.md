@@ -51,7 +51,7 @@ Therefore we see that the production of C mirrors the loss of initial reactant A
 
 This is known as the Steady State Approximation and is used to simplify the kinetics of complex schemes. It is only valid when the rate of loss of a species (in this case B) is much faster than its production. The energy plot below shows a situation where steady state is applicable. A corresponds to "reactants", B the "intermediate" and C the "products". This plot is also more rigorous and includes the reverse reaction <img src="https://render.githubusercontent.com/render/math?math=\displaystyle B \rightarrow A "> with rate coefficient<img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_{-1}">. 
 
-![alt text] (https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Steady%20State%20Energy%20Plot.png)
+![alt text](./figures/Steady_State_Energy_Plot.png)
 
 ### Non-steady state cases
 It is also worth considering the situation where steady state is not applicable. Here, these would the cases where: 
@@ -65,7 +65,7 @@ In these cases, B is formed at least as quickly as it is destroyed and potential
 
 A situation where steady state is not applicable is shown below. The large activation barrier the intermediate must overcome to produce the final product means it will not decay away rapidly. 
  
- ![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Non-steady%20State%20Energy%20Plot.png) 
+ ![alt text](./figures/Non-steady_State_Energy_Plot.png) 
 
 
 ### Validity of Steady State 
@@ -76,9 +76,9 @@ Shown below are the actual (upper) and steady state (lower) concentration profil
 
 The "actual concentration" profile are calculated by solving the differential equations stated at the top of the page. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Actual%20Concentrations.png)
+![alt text](./figures/Actual_Concentrations.png)
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Steady%20State%20Concentrations.png)
+![alt text](./figures/Steady_State_Concentrations.png)
  
  
 We see that the steady state approximation does not affect [A]. The profile of [C] increases slightly more slowly in the "actual" case, reflecting the lag which is caused by the initial formation of [B]. However, for the most part [C] is unchanged.
@@ -90,4 +90,7 @@ The profile of [B] shows the biggest difference; it is non-zero in the steady st
 We can use graphical means to investigate how the ratio of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_2"> to <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k_1">
  affects the validity of the steady state approximation. Shown below are the concentration profiles of B using the actual and steady calculations. When the ratio is small, the two profiles compare poorly but as it increases, the match becomes much better, indicating that the steady state approximation is more acceptable.  
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Steady%20state%20varying%20ratio.png)
+![alt text](./figures/Steady_state_varying_ratio.png)
+
+
+#### Copyright Oxbridge Science Academy 2022
