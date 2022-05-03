@@ -1,6 +1,9 @@
 # Rate Constants
 
-You are likely to encountered rate constants (also referred to as rate coefficients) before. They allow the temperature dependence on rates of reaction to be expresed matheamtically. While not always the case, the majority of the reactions you will encounter in undergraduate chemistry speed up with temperature - they have a positive temperature dependence. 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+You are likely to encountered rate constants (also referred to as rate coefficients) before. They allow the temperature dependence on rates of reaction to be expresesd matheamtically. While not always the case, the majority of the reactions you will encounter in undergraduate chemistry speed up with temperature - they have a positive temperature dependence. 
 
 The temperature dependence is represented in the rate constant, <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k">:
 
