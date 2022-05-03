@@ -9,7 +9,7 @@ The condition for there to be multiple energy levels is for the nucleus to have 
 
 The first step is the application of a very large, homogeneous magnetic field which splits the previously degenerate nuclear energy levels – one is raised in energy and the other lowered in energy (see figure below). Like any physical system, the nuclei will seek the lowest energy state possible and occupy the lower nuclear energy level. Then irradiation by radio waves promotes nuclei up to the higher energy level. Once the irradiation ceases, the nuclei will de-excite (called “relaxing”) to the lower energy level, emitting radio waves. The precise frequency of the radio waves depends on the energy difference between the levels. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/NMR_levels.png)
+![alt text](./figures/NMR_levels.png)
 
 We have discussed how the NMR process leads to the emission of radio waves but have not considered why the nuclei of the same element in different environments produce different radio frequencies. 
 
