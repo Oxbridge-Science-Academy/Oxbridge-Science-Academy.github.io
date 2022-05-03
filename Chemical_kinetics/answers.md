@@ -20,6 +20,7 @@ Coming soon
 
 ### Q4
 When 
+
 <img src="https://render.githubusercontent.com/render/math?math=t=t_{\frac{1}{2}}">, <img src="https://render.githubusercontent.com/render/math?math=[X]=\frac{[X]_0}{2}">. 
 
 <img src="https://render.githubusercontent.com/render/math?math=[X] =\frac{[X]_0}{2} = [X]_0e^{-kt_{\frac{1}{2}}}">
@@ -28,7 +29,7 @@ When
 
 <img src="https://render.githubusercontent.com/render/math?math=t_{\frac{1}{2}} = \frac{\ln 2}{2k}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\ln 2"> is just a constant and as the rate constant does not vary with time, the half life is fixed. 
+<img src="https://render.githubusercontent.com/render/math?math= \ln 2"> is just a constant and as the rate constant does not vary with time, the half life is fixed. 
  
  ### Q5
 
