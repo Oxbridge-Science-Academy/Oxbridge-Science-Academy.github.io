@@ -14,7 +14,7 @@ At this stage it is sufficient to acknowledge the fact that the spin of B will a
 
 On average 50% of B nuclei will be spin ↓ and 50% will be spin ↑ and so 50 % of A atoms will emit one radio frequency and the other 50% will emit a different radio frequency. These two different frequencies will result in two different chemical shift peaks but the 50:50 ratio means the peaks will have the same intensity (height). This is a described as having an intensity ratio of 1:1. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/doublet.png)
+![alt text](./figures/doublet.png)
 
 ### TripletCase Study
 
@@ -43,13 +43,13 @@ It is clear that the coupling constant correspond to 0.1 ppm but such a statemen
 
 0.1 ppm of 200 MHz ⟹ 〖0.1×10〗^(−6)×200×10^6=20 Hz This is at the higher end of 1H coupling constants. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/triplet_and_doublet.png)
+![alt text](./figures/triplet_and_doublet.png)
 
 ### Coupling to multiple environments
 
 The previous slide will probably have covered everything taught in high school regarding NMR. However, at undergraduate level, we go into more detail. Firstly, we need to consider coupling with multiple groups of non-equivalent nuclei. Consider the molecule pentane and, in particular the two hydrogens on the 2nd carbon. One of these hydrogens has been circled. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/coupling_1.png)
+![alt text](./figures/coupling_1.png)
 
 
 The ref proton will not couple to the other proton on the same carbon as they are equivalent. It will not couple to either the 2H on the 4th carbon (as they are equivalent to the 2H on 2nd carbon) and the 3H on the other terminal carbon which are too far away. However, it will couple to the 3H on the terminal carbon and the 2H on the central carbon. One might think the result would be sextet since the proton is coupling to 5 other nuclei. However, as these 2 sets of nuclei are non-equivalent, the result will is more complicated and termed a triplet of quartets. The triplet comes from coupling to the 2H on the central carbon and the quartet from the 3H on the terminal carbon. In reality it may be hard to discern shape of this peak in the spectrum due to overlap. If this is the case, such a peak is called a multiplet.
