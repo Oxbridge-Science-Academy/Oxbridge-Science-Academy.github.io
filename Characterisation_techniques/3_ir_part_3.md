@@ -36,9 +36,5 @@ As an undergraduate you will be required to assign IR spectra – some of which 
 
 Certain bond stretches produce board peaks and other bond stretches produce very sharp peaks. Information like this should be commented on in the assignment.
 
-For more information about assigning IR spectra when writing an experimental report, see the “Writing a Chemistry Experimental Report” course. 
-
-
-
 
 
