@@ -1,6 +1,8 @@
 # Steady State Approximation
 
-[Back to Chemical Kinetics Home](./contents.md)
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+<br />
 
 We can extend the idea of sequential reactions and the analysis discussed in the previous section to a very common example - the steady state approximation.
 
