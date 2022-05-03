@@ -1,5 +1,9 @@
 # Order of Reaction
 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+
 ### Single Steps
 
 You will probably have seen the rate of reactants written in terms of the concentrations of reactants rather than a differential equation. This is sometimes called the "power law" form because the rate is specified in terms of powers of reactant concentrations. For example, if molecules X and Y react in a single step to form Z via the equation:
