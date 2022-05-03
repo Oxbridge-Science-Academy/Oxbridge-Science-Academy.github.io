@@ -23,7 +23,8 @@ By applying decoupling, each carbon environment will produce a single, sharply d
  
 Just like IR spectroscopy, different carbonyls can be distinguished by the chemical shifts on the carbonyl carbon. All carbonyl carbons are sp2 and have at least on electronegative element attached (carbonyl oxygen) so fall in the δ=150−220 ppm region. 
 
-![alt text](./figures/carbonyl_nmr.png)
+
+<img src="./figures/carbonyl_nmr.png" alt="drawing" width="700"/>
 
 Conjugated rings like benzene can have a range of δ values depending on heteroatoms and substituents. δ tends to fall in the region 110−170 ppm. 
  
