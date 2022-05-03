@@ -29,9 +29,9 @@ When
 
 <img src="https://render.githubusercontent.com/render/math?math=t_{\frac{1}{2}} = \frac{\ln 2}{2k}">
 
-<img src="https://render.githubusercontent.com/render/math?math= \ln 2"> is just a constant and as the rate constant does not vary with time, the half life is fixed. 
+<img src="https://render.githubusercontent.com/render/math?math=\ln 2"> is just a constant and as the rate constant does not vary with time, the half life is fixed. 
  
- ### Q5
+### Q5
 
 In practice, the easiest way to verify a relationship is to choose variables which, when plotted against each other, give a straight line because it is much more straightforward to determine whether a line is straight compared to trying to confirm if a part of curve is polynomial or logarithmic, for example. It is also easier to measure parameters of a straight line (gradient, intercepts) from which other parameters can be calculated. 
 
