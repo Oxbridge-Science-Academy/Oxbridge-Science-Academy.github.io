@@ -20,5 +20,5 @@ The first reaction below would be described as exothermic and the second endothe
 
 The energy plot for an endothermic reactions is shown below.
 
-![alt text](./figures/Endothermic_plot.png)
+![alt text](./figures/Endotehrmic_plot.png)
 
