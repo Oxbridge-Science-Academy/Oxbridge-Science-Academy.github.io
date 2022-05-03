@@ -26,7 +26,7 @@ For small deviations from the equilibrium distance, we can model the potential a
 
 where 𝑘 is the the spring constant
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/Harmonic.png)
+![alt text](./figures/Harmonic.png)
 
 ## Energy Level Gaps
 
@@ -46,7 +46,7 @@ where ℏ=ℎ/2𝜋 and ℎ is Planck’s constant
 
 The important result is that energy difference between adjacent energy levels is the same for all levels. It turns out that transitions can only occur between adjacent energy levels. Therefore all transition for a particular molecule have the same energy / frequency. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/Levels.png)
+![alt text](./figures/Levels.png)
 
 ## Relationship to Incident Radiation
 
@@ -58,14 +58,16 @@ We can equate this to the expression for the energy 𝐸_𝑝 of a photon of fre
 
 𝐸_𝑝=∆𝐸⟹ℎ𝑓_𝑝=1/2 ℏ√(𝑘/𝜇)⟹𝑓_𝑝=1/4𝜋 √(𝑘/𝜇)
 
-Thus we arrive at the important result that the frequency of the photon absorbed when a vibrational transition occurs depends on the stiffness of the bond. For a real spring, 𝑘 depends on factors including the material of the spring, the wire width etc. In a chemical model, 𝑘 will depend on the strength of the bonding which will be different for different bonds (e.g. C=O vs. C-O) since the orbitals involved are different. Therefore, different functional groups will absorb photons with different frequencies 𝑓_𝑝. Comparing the frequencies absorbed by an unknown molecule to literature values allow us to then to identify functional groups in the molecule. For example, it is known that the carbonyl bond absorbs at a frequency of about 5.17×10^13  Hz. 
+Thus we arrive at the important result that the frequency of the photon absorbed when a vibrational transition occurs depends on the stiffness of the bond. For a real spring, 𝑘 depends on factors including the material of the spring, the wire width etc. In a chemical model, 𝑘 will depend on the strength of the bonding which will be different for different bonds (e.g. C=O vs. C-O) since the orbitals involved are different. Therefore, different functional groups will absorb photons with different frequencies 𝑓_𝑝. Comparing the frequencies absorbed by an unknown molecule to literature values allow us to then to identify functional groups in the molecule. For example, it is known that the carbonyl bond absorbs at a frequency of about 5.17×10<sup>13</sup>  Hz. 
 
 ## Wavenumbers
 
-When working with IR spectra, the most common unit used to denote frequency is the non-S.I. wavenumber (cm-1). This is used since using Hertz or Joules produces very large and very small numerical values respectively whereas vibrational transitions tend to have wavenumbers in the range ~500 – 5000 cm-1. Wavenumber is the reciprocal of wavelength 𝜆 when the wavelength is measured in cm. Using the equation relating the speed of a wave 𝑐 (speed of EM radiation in cm s-1), wavelength and 𝑓, we arrive at any expression for calculating wavenumbers. 
+When working with IR spectra, the most common unit used to denote frequency is the non-S.I. wavenumber (cm<sup>-1</sup>). This is used since using Hertz or Joules produces very large and very small numerical values respectively whereas vibrational transitions tend to have wavenumbers in the range ~500 – 5000 cm-1. Wavenumber is the reciprocal of wavelength 𝜆 when the wavelength is measured in cm. Using the equation relating the speed of a wave 𝑐 (speed of EM radiation in cm s<sup>-1</sup>), wavelength and 𝑓, we arrive at any expression for calculating wavenumbers. 
 𝑐=𝑓𝜆⟹1/𝜆=𝑓/𝑐
-For example, a frequency of 5.17×10^13  Hz in wavenumbers becomes:
-1/𝜆=𝑓/𝑐=(5.17×10^13)/(3×10^10 )=1723" " cm^(−1)
+
+For example, a frequency of 5.17×10<sup>13</sup>  Hz in wavenumbers becomes:
+
+1/𝜆=𝑓/𝑐=(5.17×10<sup>13</sup>)/(3×10<sup>10</sup> )=1723" " cm<sup>-1</sup>
 
 Note that as 1/𝜆∝𝑓 and energy 𝐸∝𝑓 ⟹𝐸∝1/𝜆 
 In words, the higher the energy of transition, the greater the wavenumber. 
