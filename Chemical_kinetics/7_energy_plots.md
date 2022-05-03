@@ -1,5 +1,9 @@
 # Energy Plots
 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+
 Ultimately a chemical reaction involves one or more molecules moving from one energy minimum to another energy minimum with the relative values of the initial and final energy minima determining whether the reaction is exothermic or endothermic. Progression between the initial and final states arises via the formation and/or destruction of chemical bonds as well as potentially other actions such as rotation about a bond or changing of molecular geometry. Visualising all these is difficult and we often lump them all together under the single dimension "reaction coordinate"; something you are likely to have encountered before. There are more complex and rigorous ways of considering molecular interactions, often involving extra dimensions but these are beyond the scope of this course. For now we shall focus on the 1 dimensional case.
 This lumping allows us to consider the progression of reaction and the energy changes which occur. A common way to do this is via energy plots which you all have seen before and one is shown below. 
 
