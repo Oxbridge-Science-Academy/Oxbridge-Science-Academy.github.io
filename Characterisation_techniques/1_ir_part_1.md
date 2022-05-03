@@ -76,7 +76,7 @@ For example, a frequency of 5.17×10<sup>13</sup>  Hz in wavenumbers becomes:
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{\lambda} = \frac{f}{c} = \frac{5.17 \times 10^13}{3\times 10^10} = 1723 \space cm^{-1}  ">
 
-Note that as: 
+Note that:
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{\lambda} \propto f,  E \propto f \Rightarrow E \propto  \frac{1}{\lambda} ">
 
