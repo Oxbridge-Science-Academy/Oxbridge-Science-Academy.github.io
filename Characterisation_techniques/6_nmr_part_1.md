@@ -34,7 +34,7 @@ Modern NMR machines can produce a sufficiently homogeneous field but often strug
 
 As previously mentioned, rather than stating the precise radio frequency emitted by a nucleus which will vary as the applied field varies day on day, we compare it to the frequency emitted by a nucleus in a reference compound. This comparison is quantified by the parameter called the chemical shift, 𝛿, which is normally expressed in parts per million:
 
-𝛿=(𝑓_(𝑠𝑎𝑚𝑝𝑙𝑒 𝑛𝑢𝑐𝑙𝑒𝑢𝑠)−𝑓_(𝑟𝑒𝑓𝑒𝑟𝑒𝑛𝑐𝑒 𝑛𝑢𝑐𝑙𝑒𝑢𝑠))/𝑓_(𝑟𝑒𝑓𝑒𝑟𝑒𝑛𝑐𝑒 𝑛𝑢𝑐𝑙𝑒𝑢𝑠) ×10^6
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \delta = \frac{ f_{sample nucleus} - f_{reference nucleus}}{f_{reference nucleus}} \times 10^6">
 
 In 1H NMR, 𝛿 takes values ~0.5-10 ppm and in 13C NMR 𝛿 takes values ~10-200 ppm. 
 
