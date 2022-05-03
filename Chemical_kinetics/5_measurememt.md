@@ -43,7 +43,7 @@ This method is advantageous because:
 
 Molecules with <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \pi"> bonds like benzene often absorb a specific frequency of UV light and can be tracked with this method. The absorption arises when an electron in a particular ππ molecular orbital is promoted to a higher energy MO. The energy difference between MOs, which depends on the wider ππ bonding structure, will determine the frequency of absorption. It will be different for different molecules so reactant and products can be traced separately. The Friedel-Crafts acylation of benzene is an example of where the would be very useful. The conjugated system of benzene has 6 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \pi"> electrons while benzaldehyde has 8 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \pi"> electrons and a different molecular orbital structure. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/FC%20Acylation.png)
+![alt text](./figures/FC_Acylation.png)
 
 
 Limitations include the complication when multiple species absorb at very similar frequencies and, for sensitive reactions, the addition of UV light could cause unwanted side-reactions by exciting molecules. For example, polymerisation can be induced in some circumstances by irradiation with UV light. 
