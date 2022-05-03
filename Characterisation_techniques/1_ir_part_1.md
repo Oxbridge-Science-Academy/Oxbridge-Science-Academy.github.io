@@ -22,27 +22,33 @@ A bond behaves like an oscillating spring, constantly increasing and decreasing 
 We saw in the MO course that the energy of bond as a function of nuclear separation had a minimum value (the equilibrium bond length) and that increasing or decreasing the bond raised the energy. As the bond lengthens, it deviates from the equilibrium bond length and it will experience a force trying to restore the equilibrium bond length much a like a spring when it is stretched or compressed. 
 For small deviations from the equilibrium distance, we can model the potential as harmonic: the restoring force, 𝐹, is directly proportional to the distance the bond length is displaced from equilibrium, 𝑥.
 
- 𝐹 = −𝑘𝑥
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle F = - kx">
 
 where 𝑘 is the the spring constant
 
-![alt text](./figures/Harmonic.png)
+<img src="./figures/Harmonic.png" alt="drawing" width="700"/>
 
 ## Energy Level Gaps
 
 The frequency at which a spring oscillates depends on how stiff it is (the force required to produce a given extension or compression). This is quantified by the spring constant 𝑘 (measured in Nm-1). The harmonic oscillator approximation a bond as a massless spring with a mass 𝑚_1 attached to one end and a second mass 𝑚_2 attached at the other end. The angular frequency of oscillation is then:
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \omega = \sqrt{\frac{k}{\mu}}"> where <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \omega = 2\pi f">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \omega = \sqrt{\frac{k}{\mu}}"> 
 
-where 𝜇 is the reduced mass 𝜇=(𝑚_1 𝑚_2)/(𝑚_1+𝑚_2 )
+where <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \omega = 2\pi f">
 
-The frequency of oscillation of a the 𝑛^𝑡ℎ vibrational energy level is related to its energy.  
+where 𝜇 is the reduced mass
 
-𝐸_𝑛=(𝑛+1/2)ℏ𝜔 ⟹𝐸_0=1/2 ℏ𝜔,𝐸_1=3/2 ℏ𝜔, 𝐸_2=5/2 ℏ𝜔…
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \mu = \frac{\mu_1 \mu_2}{\mu_1 + \mu_2}">
 
-⟹∆𝐸=𝐸_(𝑛+1)−𝐸_𝑛= 1/2 ℏ𝜔
+The frequency of oscillation of a the n<sup>th</sup> vibrational energy level is related to its energy.  
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle E_n = (n %2B\ \frac{1}{2})\hbar\omega \space \rightarrow \space \E_0 =\frac{1}{2}\hbar\omega, \E_1 =\frac{2}{2}\hbar\omega, \E_2 =\frac{5}{2}\hbar\omega">
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \rightarrow \Delta E = E_{n %2B\  1} - E_n = \frac{1}{2}\hbar\omega">
 
 where ℏ=ℎ/2𝜋 and ℎ is Planck’s constant
+
 
 The important result is that energy difference between adjacent energy levels is the same for all levels. It turns out that transitions can only occur between adjacent energy levels. Therefore all transition for a particular molecule have the same energy / frequency. 
 
