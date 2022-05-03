@@ -1,6 +1,6 @@
 # Chemical Kinetics 
 
-[Back to Home](./https://github.com/Oxbridge-Science-Academy/Oxbridge-Science-Academy.github.io/blob/master/index.md)
+[Back to Home](../index.md)
 
 [Overview](./0_overview.md)
 
