@@ -1,6 +1,6 @@
 # Steady State Approximation
 
-[Back to Chemical Kinetics Home](./overview.md)
+[Back to Chemical Kinetics Home](./contents.md)
 
 We can extend the idea of sequential reactions and the analysis discussed in the previous section to a very common example - the steady state approximation.
 
