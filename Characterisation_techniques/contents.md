@@ -1,6 +1,6 @@
 # Characterisation Techniques
 
-**[1. Infrared Spectroscopy - Part 1](./1_ir_part_1.md)**
+[1. Infrared Spectroscopy - Part 1](./1_ir_part_1.md)
 - Introduction
 - Harmonic Approximation
 - Energy Level Gaps
