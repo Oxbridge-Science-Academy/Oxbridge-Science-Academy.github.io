@@ -44,12 +44,10 @@ Substituting <img src="https://render.githubusercontent.com/render/math?math=\di
 Thus, the equation of product concentration as a function of time meets these two conditions. It is important to note that performing such sanity checks does not mean the expression is definitely correct; rather is a quick way of spotting if is wrong.
 
 The expression for <img src="https://render.githubusercontent.com/render/math?math=\displaystyle [Y]"> is plotted below. We can see how the product concentration increases rapidly at first, coinciding with the region of most rapidly reactant loss, before plateauing and tending to the concentration of the initial reactant concentration.
-Incidentally, the same mathematics is observed during the charging of a capacitor and will familiar to those of you who studied A Level (or equivalent) Physics. 
+Incidentally, the same mathematics is observed during the charging of a capacitor and will be familiar to those of you who studied A Level (or equivalent) Physics. 
 
 
 <img src="./figures/Product_1st_order.png" alt="drawing" width="700"/>
-
-Questions x and y focus on calculating the concentration of products. 
 
 ### Other Order Reactions
 
