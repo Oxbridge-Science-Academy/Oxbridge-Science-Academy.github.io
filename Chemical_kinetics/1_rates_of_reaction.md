@@ -13,7 +13,7 @@ involving the molecules A, B, C & D with stoichiometric coefficients α, β, γ 
  
 There are several options:
 - Average time for A or B to react from mixing
-- Time taken from A and B making contact to C and D being formed? (~10<sup>-14</sup> s<sup>-1</sup>)
+- Time taken from A and B making contact to C and D being formed? (~10<sup>-14</sup> s)
 - Rate of change of particular species’ concentration
 
 ### Definition
