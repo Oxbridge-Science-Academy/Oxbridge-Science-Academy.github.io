@@ -1,6 +1,9 @@
 # Measurement Techniques
 
- 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+
 We have already discussed how we can determine the RDS by varying one species’ concentration at a time and seeing how the rate changes. We have also seen how careful choice of plotting will allows us to determine the order of reaction with respect to a particular species (e.g. a plot of ln⁡[X] against time will yield a straight line if reaction is first order with respect to X)
 However, we should consider how concentration is measured in the first place and the benefits and limitations of common methods. Indeed, if we are unaware of the limitations of a particular method, we make ourselves vulnerable to drawing incorrect conclusions about the data.
 
