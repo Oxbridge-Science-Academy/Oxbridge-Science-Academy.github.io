@@ -1,6 +1,9 @@
 # Differential Equations
 
- A key progression from high school to university is thinking about rates with a more quantitative mindset. This is done by linking the two different rate equations – the differential equation and the power law equation. 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+A key progression from high school to university is thinking about rates with a more quantitative mindset. This is done by linking the two different rate equations – the differential equation and the power law equation. 
 
 Consider the simple reaction <img src="https://render.githubusercontent.com/render/math?math=\displaystyle X \rightarrow Y">
 
