@@ -41,7 +41,10 @@ Let's combine the two previous examples and consider an the NMR spectrum which s
 
 It is clear that the coupling constant correspond to 0.1 ppm but such a statement is meaningless as different NMR spectrometer operate at different frequencies. To convert the coupling constant to units of frequency, we first have to find the frequency of the NMR machine. Let’s assume it is 200 MHz, an average value for 1H NMR. 
 
-0.1 ppm of 200 MHz ⟹ 〖0.1×10〗^(−6)×200×10^6=20 Hz This is at the higher end of 1H coupling constants. 
+0.1 ppm of 200 MHz:
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle 0.1\times10^{-6} \times 200 \times 10^6=20">Hz
+
+This is at the higher end of 1H coupling constants. 
 
 ![alt text](./figures/triplet_and_doublet.png)
 
