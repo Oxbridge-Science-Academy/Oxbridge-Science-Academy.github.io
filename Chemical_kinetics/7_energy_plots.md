@@ -3,7 +3,7 @@
 Ultimately a chemical reaction involves one or more molecules moving from one energy minimum to another energy minimum with the relative values of the initial and final energy minima determining whether the reaction is exothermic or endothermic. Progression between the initial and final states arises via the formation and/or destruction of chemical bonds as well as potentially other actions such as rotation about a bond or changing of molecular geometry. Visualising all these is difficult and we often lump them all together under the single dimension "reaction coordinate"; something you are likely to have encountered before. There are more complex and rigorous ways of considering molecular interactions, often involving extra dimensions but these are beyond the scope of this course. For now we shall focus on the 1 dimensional case.
 This lumping allows us to consider the progression of reaction and the energy changes which occur. A common way to do this is via energy plots which you all have seen before and one is shown below. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Exothermic%20plot.png)
+![alt text](./figures/Exothermic_plot.png)
 
  
 These plots show the (potential) energy route molecule(s) must travel during a reaction. Molecule(s) typically start in a local energy minimum, progress over an energy maximum (the transition state) and finish in another energy minimum. These plots illustrate the energy change (strictly the enthalpy change) and the activation energies for the forward (<img src="https://render.githubusercontent.com/render/math?math=E_a">) and reverse (<img src="https://render.githubusercontent.com/render/math?math=E_{a-1}">) reactions. 
@@ -20,5 +20,5 @@ The first reaction below would be described as exothermic and the second endothe
 
 The energy plot for an endothermic reactions is shown below.
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Endotehrmic%20plot.png)
+![alt text](./figures/Endothermic_plot.png)
 
