@@ -18,7 +18,7 @@
 
 [7. Energy Plots](./7_energy_plots.md)
 
-[8. Sequential Reactions](./8.sequential_reactions.md)
+[8. Sequential Reactions](./8_sequential_reactions.md)
 
 [9. Steady State Approximation](./9_steady_state_approximation.md)
 
