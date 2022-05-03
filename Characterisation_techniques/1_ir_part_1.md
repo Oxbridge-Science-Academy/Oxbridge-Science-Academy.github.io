@@ -42,10 +42,10 @@ where 𝜇 is the reduced mass
 
 The frequency of oscillation of a the n<sup>th</sup> vibrational energy level is related to its energy.  
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle E_n = (n %2B\ \frac{1}{2})\hbar\omega \space \rightarrow \space \E_0 =\frac{1}{2}\hbar\omega, \E_1 =\frac{2}{2}\hbar\omega, \E_2 =\frac{5}{2}\hbar\omega">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle E_n = (n %2B\ \frac{1}{2})\hbar\omega \space \Rightarrow \space \E_0 =\frac{1}{2}\hbar\omega, \E_1 =\frac{2}{2}\hbar\omega, \E_2 =\frac{5}{2}\hbar\omega">
 
 
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \rightarrow \Delta E = E_{n %2B\  1} - E_n = \frac{1}{2}\hbar\omega">
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \Rightarrow \Delta E = E_{n %2B\  1} - E_n = \frac{1}{2}\hbar\omega">
 
 where ℏ=ℎ/2𝜋 and ℎ is Planck’s constant
 
@@ -58,24 +58,26 @@ The important result is that energy difference between adjacent energy levels is
 
 For a transition to occur, radiation with energy equal to the energy gap between vibrational energy levels ∆𝐸 must be be incident on the bond.
 
-∆𝐸= 1/2 ℏ𝜔=1/2 ℏ√(𝑘/𝜇)
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \Delta E = \frac{1}{2} \hbar \omega = \frac{1}{2} \hbar \sqrt{\frac{k}{\mu}}">
 
-We can equate this to the expression for the energy 𝐸_𝑝 of a photon of frequency 𝑓_𝑝:
+We can equate this to the expression for the energy 𝐸<sub>𝑝</sub> of a photon of frequency 𝑓<sub>𝑝</sub>:
 
-𝐸_𝑝=∆𝐸⟹ℎ𝑓_𝑝=1/2 ℏ√(𝑘/𝜇)⟹𝑓_𝑝=1/4𝜋 √(𝑘/𝜇)
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle E_p = \Delta E \Rightarrow hf = \frac{1}{2} \hbar \sqrt{\frac{k}{\mu}} \Rightarrow f_p = \frac{1}{4\pi} \sqrt{\frac{k}{\mu}}">
 
 Thus we arrive at the important result that the frequency of the photon absorbed when a vibrational transition occurs depends on the stiffness of the bond. For a real spring, 𝑘 depends on factors including the material of the spring, the wire width etc. In a chemical model, 𝑘 will depend on the strength of the bonding which will be different for different bonds (e.g. C=O vs. C-O) since the orbitals involved are different. Therefore, different functional groups will absorb photons with different frequencies 𝑓_𝑝. Comparing the frequencies absorbed by an unknown molecule to literature values allow us to then to identify functional groups in the molecule. For example, it is known that the carbonyl bond absorbs at a frequency of about 5.17×10<sup>13</sup>  Hz. 
 
 ## Wavenumbers
 
 When working with IR spectra, the most common unit used to denote frequency is the non-S.I. wavenumber (cm<sup>-1</sup>). This is used since using Hertz or Joules produces very large and very small numerical values respectively whereas vibrational transitions tend to have wavenumbers in the range ~500 – 5000 cm-1. Wavenumber is the reciprocal of wavelength 𝜆 when the wavelength is measured in cm. Using the equation relating the speed of a wave 𝑐 (speed of EM radiation in cm s<sup>-1</sup>), wavelength and 𝑓, we arrive at any expression for calculating wavenumbers. 
-𝑐=𝑓𝜆⟹1/𝜆=𝑓/𝑐
+
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle c = f \lambda \Rightarrow \frac{1}{\lambda} = \frac{f}{c}">
 
 For example, a frequency of 5.17×10<sup>13</sup>  Hz in wavenumbers becomes:
 
-1/𝜆=𝑓/𝑐=(5.17×10<sup>13</sup>)/(3×10<sup>10</sup> )=1723" " cm<sup>-1</sup>
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{\lambda} = \frac{f}{c} = \frac{5.17 \times 10^13}{3\times 10^10} = 1723 \space cm^{-1}  ">
 
-Note that as 1/𝜆∝𝑓 and energy 𝐸∝𝑓 ⟹𝐸∝1/𝜆 
+Note that as <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{\lambda} \propto f "> and energy <img src="https://render.githubusercontent.com/render/math?math=\displaystyle E \propto f \Rightarrow E \propto  \frac{1}{\lambda} ">
+
 In words, the higher the energy of transition, the greater the wavenumber. 
 
 
