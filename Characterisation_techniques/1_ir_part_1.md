@@ -76,9 +76,11 @@ For example, a frequency of 5.17×10<sup>13</sup>  Hz in wavenumbers becomes:
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{\lambda} = \frac{f}{c} = \frac{5.17 \times 10^13}{3\times 10^10} = 1723 \space cm^{-1}  ">
 
-Note that as <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{\lambda} \propto f "> and energy <img src="https://render.githubusercontent.com/render/math?math=\displaystyle E \propto f \Rightarrow E \propto  \frac{1}{\lambda} ">
+Note that as: 
 
-In words, the higher the energy of transition, the greater the wavenumber. 
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \frac{1}{\lambda} \propto f,  E \propto f \Rightarrow E \propto  \frac{1}{\lambda} ">
+
+In other words, the higher the energy of transition, the greater the wavenumber. 
 
 
 
