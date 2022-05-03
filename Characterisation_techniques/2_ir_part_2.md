@@ -13,7 +13,7 @@ This can be done with other more complicated molecules like CO2 as shown. To fin
 
 Water has a dipole because Oxygen is more electrongative than Hydrogen. Note that in this case the net dipole does not point along the bonds but rather directly from the Hydrogens to the Oxygen. This is becasue the net dipole is the sum of the two individual dipoles (as in CO2) shown in red and we can see that the horizontal components of these red dipoles cancel and only the vertical component remains. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/dipoles.png)
+![alt text](./figures/dipoles.png)
 
 ## Change in dipole 
 
