@@ -21,7 +21,7 @@ Taking the natural logarithm of both sides:
 
 Plotting <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \ln k"> against <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{T}"> will produce a straight line with gradient <img src="https://render.githubusercontent.com/render/math?math=-\frac{E_a}{R}"> as shown below.
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/lnk%20v%201:T.png)
+![alt text](./figures/lnk_v_1-T.png)
 
 
 ### Pre-Exponential Factor
