@@ -1,5 +1,10 @@
 # Questions 
 
+[Back to Chemical Kinetics Home](./contents.md)<br /> 
+[To answers](./answers.md)<br /> 
+
+**Copyright Oxbridge Science Academy 2022**
+
 ### Q1 
 Consider the reaction:
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle H_2 %2B\ Br_2 \rightarrow 2HBr">
