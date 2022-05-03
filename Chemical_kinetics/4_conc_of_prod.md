@@ -1,5 +1,9 @@
 # Concentrations of Products
 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+
 The previous section looked at how we can derive expressions for the variation of a reactant with time for first and second order reactions. However, we are often interested in the time-dependence of product formation a well. For example, many drugs are delivered to the body not in their active form but as a precursor which will react in the body, sometimes multiple times, to eventually form the molecule which is biologically active and performs the specific therapeutic task. 
 It is relatively straightforward to express the concentration of product as a function of time in a reaction of simple stoichiometry. The key step is to remember that mass is conserved. 
  
