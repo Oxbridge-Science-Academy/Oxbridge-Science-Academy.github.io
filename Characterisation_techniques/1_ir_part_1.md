@@ -32,7 +32,7 @@ where 𝑘 is the the spring constant
 
 The frequency at which a spring oscillates depends on how stiff it is (the force required to produce a given extension or compression). This is quantified by the spring constant 𝑘 (measured in Nm-1). The harmonic oscillator approximation a bond as a massless spring with a mass 𝑚_1 attached to one end and a second mass 𝑚_2 attached at the other end. The angular frequency of oscillation is then:
 
- 𝜔=√(𝑘/𝜇) 	where 𝜔=2𝜋𝑓 
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle \omega = \sqrt{\frac{k}{\mu}}"> where <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \omega = 2\pi f">
 
 where 𝜇 is the reduced mass 𝜇=(𝑚_1 𝑚_2)/(𝑚_1+𝑚_2 )
 
