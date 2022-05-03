@@ -1,5 +1,9 @@
 # Rate of Reaction
 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+
 Consider the reaction: 
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \alpha A %2B\ \beta B \rightarrow \gamma C %2B\  \delta D">
