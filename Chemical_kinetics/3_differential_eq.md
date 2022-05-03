@@ -56,7 +56,7 @@ Exponential decay has several important implications including the fact that con
 
 The plot below shows the concentration profile for a first order reactant with a half life of ~1.5 s. The dashed red lines show visually that the half life is constant. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/first%20order%20plot.png)
+![alt text](./figures/first_order_plot.png)
 
 ## 2nd Order Reactions
 
@@ -86,7 +86,7 @@ This can be rearranged to give:
 
 It is helpful to consider whether this final expression makes sense. At the start when <img src="https://render.githubusercontent.com/render/math?math=\displaystyle t=0">, the expression predicts <img src="https://render.githubusercontent.com/render/math?math=\displaystyle [X] = [X]_0"> as required and as <img src="https://render.githubusercontent.com/render/math?math=\displaystyle t \rightarrow \infinity">, the denominator also <img src="https://render.githubusercontent.com/render/math?math=\displaystyle \rightarrow \infinity"> and <img src="https://render.githubusercontent.com/render/math?math=\displaystyle [X]_0 \rightarrow 0"> as required. 
 
-### Zero Order Reactions
+## Zero Order Reactions
 
 Consider a reaction <img src="https://render.githubusercontent.com/render/math?math=\displaystyle X %2B\ Y \rightarrow Z">. While this may look first order in both <img src="https://render.githubusercontent.com/render/math?math=\displaystyle X"> and <img src="https://render.githubusercontent.com/render/math?math=\displaystyle Y">, in this particular let's say that there are two steps involved. The first involves <img src="https://render.githubusercontent.com/render/math?math=\displaystyle X"> decaying into another product, <img src="https://render.githubusercontent.com/render/math?math=\displaystyle X^*"> before <img src="https://render.githubusercontent.com/render/math?math=\displaystyle X^*"> reacts with <img src="https://render.githubusercontent.com/render/math?math=\displaystyle Y">:
 
@@ -100,4 +100,4 @@ We can therefore write <img src="https://render.githubusercontent.com/render/mat
 
 Below is shown concentration profiles for zero, 1st and 2nd order reactions. 
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/Reactant%20Profiles.png)
+![alt text](./figures/Reactant_Profiles.png)
