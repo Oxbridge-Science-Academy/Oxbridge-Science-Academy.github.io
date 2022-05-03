@@ -1,5 +1,12 @@
 # Answers
 
+[Back to Chemical Kinetics Home](./contents.md)<br /> 
+[Back to Questions](./questions.md)<br /> 
+
+**Copyright Oxbridge Science Academy 2022**
+
+
+
 ### Q1
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle rate = -\frac{d[H_2]}{dt} =-\frac{d[Br_2]}{dt} = \frac{1}{2} \frac{d[HBr]}{dt}">
