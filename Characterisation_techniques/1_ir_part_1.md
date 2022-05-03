@@ -26,7 +26,9 @@ For small deviations from the equilibrium distance, we can model the potential a
 
 where 𝑘 is the the spring constant
 
-<img src="./figures/Harmonic.png" alt="drawing" width="700"/>
+<img src="./figures/Harmonic.png" alt="drawing" width="500"/>
+
+
 
 ## Energy Level Gaps
 
