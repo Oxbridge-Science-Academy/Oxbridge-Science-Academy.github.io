@@ -11,7 +11,7 @@ Where <img src="https://render.githubusercontent.com/render/math?math=\displayst
 ### Determining rate constant parameters 
 A plot of <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k"> against <img src="https://render.githubusercontent.com/render/math?math=\displaystyle T"> produces a curve from which it is hard to extract information about the parameter of interest, <img src="https://render.githubusercontent.com/render/math?math=\displaystyle E_a">. This is shown below for the reaction of <img src="https://render.githubusercontent.com/render/math?math=O %2B\ O_3 \rightarrow O_2 %2B\ O_2">:
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Chemical_Kinetics/k%20v%20T.png)
+![alt text](./figures/k_v_T.png)
  
 However, we can manipulate the expression for <img src="https://render.githubusercontent.com/render/math?math=\displaystyle k"> to produce a straight line plot from which it is easier to determine important parameters.
 
