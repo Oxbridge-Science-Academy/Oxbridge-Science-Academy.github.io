@@ -1,5 +1,9 @@
 # Sequential Reactions
 
+[Back to Chemical Kinetics Home](./contents.md)<br /> **Copyright Oxbridge Science Academy 2022**
+
+
+
 We are now in a position to consider more complicated chemical systems. Few reactions consist of a single step with the vast majority proceeding via many steps with intermediates which are produced and then destroyed. The best way to describe these mathematically is using the differential equation form.
 
 ### Chapman Cycle
