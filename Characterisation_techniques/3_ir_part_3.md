@@ -18,7 +18,7 @@ We would therefore expect the absorption of ester to be higher in energy than fo
 
 ### Carbonyls
 
-![alt text](https://github.com/Oxbridge-Science-Academy/Figures/blob/master/Characterisation_Techniques/carbonyls.png)
+![alt text](./figures/carbonyls.png)
 
 ### X-H
 C-H	2900−3200 cm<sup>-1</sup> 
